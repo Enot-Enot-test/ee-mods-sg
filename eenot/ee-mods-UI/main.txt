@@ -1,0 +1,9 @@
+type=default 
+ne-sovmest=none;
+version/mod=0.0.0
+version/loader=0.0.0
+
+add/sprite 
+add/sprite 
+del/sprite 
+add/sprite 

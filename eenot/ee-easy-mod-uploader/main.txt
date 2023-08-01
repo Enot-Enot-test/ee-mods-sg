@@ -1,0 +1,6 @@
+type=default
+ne-sovmest=none;
+version/mod=1.0.0
+version/loader=0.0.1
+
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-easy-mod-uploader/EEM%20Easy%20Mod%20Unloader.sprite3

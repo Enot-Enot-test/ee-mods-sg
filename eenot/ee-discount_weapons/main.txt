@@ -1,0 +1,10 @@
+﻿type=default
+ne-sovmest=none;
+version/mod=1.0.0
+version/loader=0.0.1
+
+del/sprite Mr. Stick
+del/sprite Кнопка "Купить"
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/

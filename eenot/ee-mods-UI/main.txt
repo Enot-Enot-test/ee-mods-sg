@@ -1,7 +1,7 @@
 ﻿type=default
 ne-sovmest=none;
 version/mod=0.0.0
-version/loader=0.0.0
+version/loader=0.0.2
 
 del/sprite EE Mods UI
 del/sprite EE Mods button

@@ -1,7 +1,7 @@
 ﻿type=default
 ne-sovmest=none;
 version/mod=1.0.0
-version/loader=0.0.1
+version/loader=0.0.2
 
 del/sprite Mr. Stick
 del/sprite Кнопка "Купить"

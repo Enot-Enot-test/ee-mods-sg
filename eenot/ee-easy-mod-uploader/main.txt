@@ -1,3 +1,4 @@
+name=Easy mod loader
 type=default
 ne-sovmest=none;
 version/mod=1.0.0

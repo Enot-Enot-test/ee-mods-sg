@@ -1,8 +1,10 @@
 ﻿name=Скидки на оружие
+game=Shoot Gun
 type=default
 ne-sovmest=none;
 version/mod=1.0.0
 version/loader=0.0.2
+version/game=0.8
 
 del/sprite Mr. Stick
 del/sprite Кнопка "Купить"

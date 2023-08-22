@@ -10,7 +10,7 @@ del/sprite Существа//Игрок
 del/sprite Существа//Пульки
 del/sprite Магазин//выбор оружий
 del/sprite Магазин//Кнопка "Купить"
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-bintpushka/Магазин__выбор оружий.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-bintpushka/Магазин__Кнопка _Купить_.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-bintpushka/Существа__Игрок.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-bintpushka/Существа__Пульки.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Магазин__выбор оружий.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Магазин__Кнопка _Купить_.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Существа__Игрок.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Существа__Пульки.sprite3

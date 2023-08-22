@@ -19,5 +19,5 @@ add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/
 set/sprite превью
 add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Существа__Пульки.sprite3
 set/sprite превью
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Использование предметов.sprite
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-bintpushka/Использование предметов.sprite3
 set/sprite превью

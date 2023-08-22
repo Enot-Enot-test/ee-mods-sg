@@ -7,4 +7,4 @@ version/loader=0.0.2
 version/game=0.8
 
 del/sprite Состояние Игрока
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/MANA_fix/Состояние Игрока.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/MANA_fix/Состояние Игрока.sprite3

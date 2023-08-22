@@ -8,6 +8,6 @@ version/game=0.8
 
 del/sprite Mr. Stick
 del/sprite Кнопка "Купить"
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/Mr.%20Stick.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/mod__skidki-ee.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-discount_weapons/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0%20_%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C_.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-discount_weapons/Mr.%20Stick.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-discount_weapons/mod__skidki-ee.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-discount_weapons/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0%20_%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C_.sprite3

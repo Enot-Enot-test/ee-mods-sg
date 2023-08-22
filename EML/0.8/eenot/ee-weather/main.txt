@@ -8,9 +8,9 @@ version/game=0.8
 
 del/sprite Mr. Stick
 del/sprite Использование предметов
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/mods__лужи.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/mods__погода.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/mods__погода__сообщения.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/mods__солнце_луна.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/Mr. Stick.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-weather/Использование предметов.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/mods__лужи.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/mods__погода.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/mods__погода__сообщения.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/mods__солнце_луна.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/Mr. Stick.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-weather/Использование предметов.sprite3

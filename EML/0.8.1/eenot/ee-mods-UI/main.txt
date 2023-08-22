@@ -8,7 +8,7 @@ version/game=0.8.1
 
 del/sprite EE Mods UI
 del/sprite EE Mods button
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-mods-UI/EE%20Mods%20UI.sprite3
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-mods-UI/EE%20Mods%20button.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-mods-UI/EE%20Mods%20UI.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-mods-UI/EE%20Mods%20button.sprite3
 del/sprite Играть
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-mods-UI/%D0%98%D0%B3%D1%80%D0%B0%D1%82%D1%8C.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-mods-UI/%D0%98%D0%B3%D1%80%D0%B0%D1%82%D1%8C.sprite3

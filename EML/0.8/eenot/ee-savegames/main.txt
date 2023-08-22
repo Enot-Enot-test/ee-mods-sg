@@ -7,4 +7,4 @@ version/loader=0.0.2
 version/game=0.8
 
 del/sprite mods//eenot: save and load
-add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/eenot/ee-savegames/mods__eenot_ save and load.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8/eenot/ee-savegames/mods__eenot_ save and load.sprite3

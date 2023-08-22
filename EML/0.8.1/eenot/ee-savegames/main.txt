@@ -2,7 +2,7 @@
 game=Shoot Gun
 type=default
 ne-sovmest=none;
-version/mod=1.1.0
+version/mod=1.1.1
 version/loader=0.0.3
 version/game=0.8.1
 

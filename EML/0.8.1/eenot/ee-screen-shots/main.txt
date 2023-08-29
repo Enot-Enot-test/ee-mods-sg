@@ -1,0 +1,26 @@
+﻿name=EE Screen Shots
+game=Shoot Gun
+type=default
+ne-sovmest=none;
+version/mod=1.0.0
+version/loader=0.0.4
+version/game=0.8.1
+
+del/sprite Состояние Игрока
+del/sprite Счётчик всего
+del/sprite Волна
+del/sprite Инвентарь
+del/sprite Шкала Игрока
+del/sprite !!!
+del/sprite Босс-бар
+del/sprite mods//скриншот
+del/sprite mods//sg-logo
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/!!!.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/mods__sg-logo.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/mods__скриншот.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Босс-бар.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Волна.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Инвентарь.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Состояние Игрока.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Счётчик всего.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Шкала Игрока.sprite3

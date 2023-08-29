@@ -22,4 +22,5 @@ add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/
 add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Состояние Игрока.sprite3
 add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Счётчик всего.sprite3
 add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/Шкала Игрока.sprite3
+add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/mods__sg-logo.sprite3
 add/sprite https://raw.githubusercontent.com/Enot-Enot-test/ee-mods-sg/main/EML/0.8.1/eenot/ee-screen-shots/mods__скриншот.sprite3
